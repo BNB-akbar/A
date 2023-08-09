@@ -1,2 +1,2 @@
 # A
-Repositori untuk membuat website 
+Repositori untuk membuat website toko online 
